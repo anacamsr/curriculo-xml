@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculo>
+    <header>
+        <name>Ana Carolina Mansur Selier Rodrigues</name>
+        <role>Desenvolvedora de Software</role>
+        <github>https://github.com/anacamsr</github>
+        <email>carolina.mansur.selier@gmail.com</email>
+        <location>Niterói, Rio de Janeiro, Brasil</location>
+    </header>
+
+    <summary>
+        <p>Desenvolvedora fullstack com 3 anos de experiência em criação de layouts, integração com bancos de dados e automação. Trabalho com tecnologias como React, Node.js, Laravel, Django e Flask, e modernização de sistemas.</p>
+    </summary>
+
+    <skills>
+        <skill category="Frontend">
+            <tech>React.js</tech>
+            <tech>Next.js</tech>
+            <tech>Mui</tech>
+            <tech>JavaScript</tech>
+            <tech>TypeScript</tech>
+            <tech>HTML</tech>
+            <tech>CSS</tech>
+            <tech>Bootstrap</tech>
+        </skill>
+        <skill category="Backend">
+            <tech>Node.js</tech>
+            <tech>Laravel</tech>
+            <tech>PHP</tech>
+            <tech>Python</tech>
+            <tech>Django</tech>
+            <tech>Flask</tech>
+            <tech>MySQL</tech>
+            <tech>MyServer</tech>
+        </skill>
+        <skill category="DevOps">
+            <tech>Docker</tech>
+            <tech>Git</tech>
+            <tech>CI/CD</tech>
+        </skill>
+    </skills>
+
+    <experience>
+        <job>
+            <company>InvestSmart</company>
+            <role>Desenvolvedora Fullstack Júnior</role>
+            <period>2024 - Presente</period>
+            <description>
+                <p>Refatoração de sistemas legados com Next.js e Node.js, integração com CRM Bitrix e APIs, sustentação de sistemas em Php, JavaScript e React</p>
+            </description>
+        </job>
+        <job>
+            <company>Modifique Digital</company>
+            <role>Desenvolvedora Fullstack Júnior</role>
+            <period>2022 - 2024</period>
+            <description>
+                <p>Criação de layouts, manipulação de dados e integração com bancos de dados em React, Node, Django, Vue e Laravel. Experiência com Flutter para apps móveis.</p>
+            </description>
+        </job>
+    </experience>
+
+    <projects>
+        <project>
+            <title>Sistema de PDF em Docker</title>
+            <description>Sistema desenvolvido em Python para mesclar PDFs, usando Docker para containerização.</description>
+            <link>https://github.com/anacamsr/mesclador-pdf</link>
+        </project>
+        <project>
+            <title>Rick and Morty - API Personagens</title>
+            <description>Integração de dados em react de uma api de rick and morty</description>
+            <link>https://github.com/anacamsr/react-api</link>
+        </project>
+        <project>
+            <title>Crud PHP - Laravel</title>
+            <description>Crud (create, read, update e delete) de uma biblioteca em laravel php</description>
+            <link>https://github.com/anacamsr/crud-laravel</link>
+        </project>
+    </projects>
+
+    <education>
+        <degree>
+            <institution>Unesa - Universidade Estácio de Sá</institution>
+            <course>Sistemas de Informação</course>
+            <period>2020 - 2024</period>
+        </degree>
+    </education>
+</curriculo>
